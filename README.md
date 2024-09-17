@@ -7,22 +7,21 @@ Fetching news articles with details of that article, and showing in the view by 
 - No any Cocoapods added
 
 ## Screenshots
-![Simulator Screenshot - iPhone 15 - 2024-09-18 at 01 12 36](https://github.com/user-attachments/assets/fb485aca-7652-4f1c-aabd-54753f4da15d)
-![Simulator Screenshot - iPhone 15 - 2024-09-18 at 01 13 00](https://github.com/user-attachments/assets/7012456e-6364-4994-8998-bbb1aab41c64)
-![Simulator Screenshot - iPhone 15 - 2024-09-18 at 01 13 14](https://github.com/user-attachments/assets/58161ec3-aa3b-4f52-bfa9-8b3c143d2232)
+![Simulator Screenshot - iPhone 15 - 2024-09-18 at 01 12 36-portrait](https://github.com/user-attachments/assets/848767cb-b19e-42d9-9a7c-15840429c382)
+![Simulator Screenshot - iPhone 15 - 2024-09-18 at 01 13 00-portrait](https://github.com/user-attachments/assets/0706dd73-ffdf-427b-9c72-3a550afb0666)
+![Simulator Screenshot - iPhone 15 - 2024-09-18 at 01 13 14-portrait](https://github.com/user-attachments/assets/bde7d6dd-85be-4970-9573-dc5eb0d717fb)
 
 ## Run
-To run the project, clone the repo, and run
+To run the project, clone the repo and run
 
 ## Warning
-Do not use this code / part of code / API token for production / clone purpose
+Do not use this code / part of code / API token for production or other commercial purpose without prior permission from Author
 
 ### Initialization 
 You can use your own API Token (AppSettings file)
 
 ## Used
-MVVM
-Combine
+MVVM & Combine
 
 ## Author
 Irfan Ajmeri
